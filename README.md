@@ -88,7 +88,7 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |            3               |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |            4               |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                            |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
@@ -116,7 +116,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 502** |          **= 3**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 4**           |
 
 ---
 
