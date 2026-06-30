@@ -88,7 +88,7 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |            11              |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |            12              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                            |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
@@ -212,7 +212,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [x] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
