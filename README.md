@@ -88,7 +88,7 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |            4               |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |            11              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                            |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
@@ -194,17 +194,17 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
-- [ ] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+- [x] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
   
 - [ ] [🕵️ TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
 - [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
-- [ ] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [x] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
 - [] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
@@ -216,9 +216,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
-- [] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
+- [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
-- [ ] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
+- [x] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 
 
 
