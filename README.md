@@ -88,7 +88,7 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |            13              |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |            14              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                            |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
@@ -198,7 +198,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-- [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+- [x] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
 - [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
