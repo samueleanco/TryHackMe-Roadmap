@@ -90,7 +90,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | ------------------------------------------------ |:------------:|:---------------------------:|
 | **[Introductory Rooms](#intro-rooms)**           |     21       |            14              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |              1              |
-| **[Windows Fundamentals](#windows-fundamentals)**|      3       |               2              |
+| **[Windows Fundamentals](#windows-fundamentals)**|      3       |               3              |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
 | **[Reconnaissance](#recon)**                     |     10       |                            |
 | **[Scripting](#scripting)**                      |      7       |                             |
@@ -239,7 +239,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [x] [🕵️ TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
   
-- [ ] [🕵️ TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x] [🕵️ TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
